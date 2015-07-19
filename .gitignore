@@ -2,6 +2,7 @@
 *.log
 .idea/*
 .idea/libraries
+*.iml
 
 # sbt specific
 .cache
